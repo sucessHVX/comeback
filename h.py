@@ -1,5 +1,5 @@
-station = "사당"
-print(f'{station} 행 열차가 들어오고 있습니다.')
+from random import *
 
-print('이상한 것 올려서 감사하다. ㅋㅋㅋㅋㅋ 그래도 감사하다')
-print('감사하다 내일부터 달려보겠다!!')
+random = randint(4, 28)
+
+print(f'오프라인 스터디 모임 날짜는 매월 {random}일로 선정되었습니다.')
