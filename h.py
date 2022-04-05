@@ -4,4 +4,4 @@ for x in days:
     print(x)
 
 print("할 수 있다")
-print("zzzzz")
+print("잘했습니다")
